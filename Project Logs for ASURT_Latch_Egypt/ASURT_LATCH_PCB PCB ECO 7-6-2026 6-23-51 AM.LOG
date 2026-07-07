@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+5V Pin=D6-1
+Added Pin To Net: NetName=+5V Pin=R21-2
+Added Pin To Net: NetName=+5V Pin=R23-1
+Added Member To Class: ClassName=ASURT_LATCH_SCH Member=Component C6 100n

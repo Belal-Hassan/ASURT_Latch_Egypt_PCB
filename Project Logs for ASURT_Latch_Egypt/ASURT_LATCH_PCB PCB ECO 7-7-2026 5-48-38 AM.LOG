@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AMS_STATUS_OUTPUT Pin=R17-1
+Removed Pin From Net: NetName=IMD_STATUS_OUTPUT Pin=R20-1
+Added Pin To Net: NetName=AMS_STATUS_OUTPUT_REAL Pin=D5-A
+Added Pin To Net: NetName=AMS_STATUS_OUTPUT_REAL Pin=R17-1
+Added Pin To Net: NetName=AMS_STATUS_OUTPUT_REAL Pin=U1-8
+Added Net: Name=AMS_STATUS_OUTPUT_REAL
+Added Pin To Net: NetName=IMD_STATUS_OUTPUT_REAL Pin=D4-A
+Added Pin To Net: NetName=IMD_STATUS_OUTPUT_REAL Pin=R20-1
+Added Pin To Net: NetName=IMD_STATUS_OUTPUT_REAL Pin=U1-6
+Added Net: Name=IMD_STATUS_OUTPUT_REAL
