@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=LATCH_OUT Pin=U1-11
+Removed Pin From Net: NetName=IMD_REAL Pin=U7-3
+Removed Pin From Net: NetName=RC_OUT_1 Pin=U7-9
+Removed Pin From Net: NetName=RC_OUT_1 Pin=U7-10
+Removed Pin From Net: NetName=IMD Pin=U7-12
+Removed Pin From Net: NetName=IMD Pin=U7-13
+Change Designator: Invalid Designator
+Added Pin To Net: NetName=IMD_REAL Pin=U1-11
+Added Pin To Net: NetName=RC_OUT_1 Pin=U1-12
+Added Pin To Net: NetName=IMD Pin=U1-13
+Added Pin To Net: NetName=LATCH_OUT Pin=U7-11
+Change Net Name : Old Net Name=AMS_STATUS_OUTPUT_REAL New Net Name=AMS_Q_Gated
+Change Net Name : Old Net Name=IMD_STATUS_OUTPUT_REAL New Net Name=IMD_Q_Gated
+Added Pin To Net: NetName=AMS_!Q Pin=U2-14
+Added Pin To Net: NetName=AMS_!Q Pin=U7-1
+Added Net: Name=AMS_!Q
+Added Pin To Net: NetName=AMS_Q Pin=U1-10
+Added Pin To Net: NetName=AMS_Q Pin=U2-15
+Added Net: Name=AMS_Q
+Added Pin To Net: NetName=IMD_!Q Pin=U2-10
+Added Pin To Net: NetName=IMD_!Q Pin=U7-2
+Added Net: Name=IMD_!Q
+Added Pin To Net: NetName=IMD_Q Pin=U1-5
+Added Pin To Net: NetName=IMD_Q Pin=U2-11
+Added Net: Name=IMD_Q
+Added Pin To Net: NetName=NetU7_3 Pin=U7-3
+Added Pin To Net: NetName=NetU7_3 Pin=U7-12
+Added Pin To Net: NetName=NetU7_3 Pin=U7-13
+Added Net: Name=NetU7_3
